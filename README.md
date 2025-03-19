@@ -66,6 +66,6 @@ Extend to an API-based architecture.
 
 Improve UI design.
 
- # Contributing
+ ###### Contributing
 
 Feel free to fork, create pull requests, and contribute enhancements or improvements.
