@@ -43,7 +43,7 @@ Error handling and logging (optional).
 └── DataAccessLayer
     └── Database operations (SQL, Entity Framework, etc.)
 
-#####Setup & Usage
+ ##### Setup & Usage
 
 Clone this repository:
 https://github.com/shifaali28/three-layer-architecture/new/master?filename=README.md
@@ -66,6 +66,6 @@ Extend to an API-based architecture.
 
 Improve UI design.
 
-####### contributing
+ # Contributing
 
 Feel free to fork, create pull requests, and contribute enhancements or improvements.
